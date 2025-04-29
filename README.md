@@ -1,7 +1,6 @@
 # AutoFit
 
-PORTUGUÊS
-
+## PORTUGUÊS
 
 -Ao importar um arquivo .txt com o botão "Importar dados", seu
  espectro logo será plotado.
@@ -34,7 +33,7 @@ PORTUGUÊS
 -Em sair, você poderá encerrar a execução do programa mediante uma confirmação 
  de saída
 
-ENGLISH
+## ENGLISH
 
 -When importing a .txt file with the "Import Data" button, your
  spectrum will be plotted immediately.
@@ -67,7 +66,7 @@ ENGLISH
 -With "Exit", you can terminate the program after confirming
  through an exit confirmation.
 
-中国人
+## 中国人
 
 -通过点击“导入数据”按钮导入.txt文件后，
  程序将立即绘制出光谱图。
